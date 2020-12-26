@@ -1,0 +1,9 @@
+name=player
+displayedName=test
+health=1600
+stamina=1
+strength=100
+dexterity=1
+witchery=1
+endurance=1
+level=3

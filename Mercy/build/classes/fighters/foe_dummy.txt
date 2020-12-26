@@ -1,0 +1,8 @@
+name=foe_dummy
+displayedName=Dummy
+health=100
+stamina=1
+strength=5
+dexterity=5
+witchery=100
+endurance=5

@@ -1,0 +1,8 @@
+name=player
+displayedName=test
+health=35
+stamina=3
+strength=5
+dexterity=5
+witchery=-513
+endurance=5
